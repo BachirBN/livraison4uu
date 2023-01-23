@@ -26,10 +26,10 @@
 
 
 .slider-frame{
+  margin-top: 10px;
   overflow: hidden;
   height: 800px;
   width: 100%;
-
 }
 
 /*---------- SLIDE ANIMATION --------------*/
