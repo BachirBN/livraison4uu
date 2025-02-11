@@ -268,9 +268,7 @@ form.sign-in-form {
 .container.sign-up-mode .left-panel {
   pointer-events: none;
 }
-.social-icon{
-  background:black;
-}
+
 .container.sign-up-mode .right-panel {
   pointer-events: all;
 }
